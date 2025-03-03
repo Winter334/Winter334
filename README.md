@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi!
+## Winter334
+
+### 关于我
+嗨，我是 Winter334，欢迎来到我的 GitHub 主页！
+
+### 统计信息
+![我的 GitHub 数据](https://stats.justsong.cn/api/github?username=Winter334)
 
 <!--
 **Winter334/Winter334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
